@@ -1,0 +1,16 @@
+.country{
+    display: grid;
+    grid-template-columns: 2fr 4fr;
+}
+.links{
+    overflow-x: hidden;
+    overflow-y: scroll;
+    height: 400px;
+}
+.link{
+    
+   justify-content: center;
+   align-items:flex-end;
+    display: flex;
+    
+}
